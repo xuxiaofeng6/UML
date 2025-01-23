@@ -1,29 +1,29 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.7">
   <diagram name="第 1 页" id="uARH736vWw_qrWtCbUs6">
-    <mxGraphModel dx="1600" dy="805" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="1">
+    <mxGraphModel dx="733" dy="369" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="TkaoiMYruR-OZeZLr6xF-1" value="点类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="523" y="90" width="120" height="40" as="geometry" />
+          <mxGeometry x="523" y="82" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TkaoiMYruR-OZeZLr6xF-2" value="点云类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="523" y="170" width="120" height="40" as="geometry" />
+          <mxGeometry x="523" y="162" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TkaoiMYruR-OZeZLr6xF-3" value="点云数据管理类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="523" y="320" width="120" height="40" as="geometry" />
+          <mxGeometry x="523" y="312" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TkaoiMYruR-OZeZLr6xF-5" value="网格类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="683" y="170" width="120" height="40" as="geometry" />
+          <mxGeometry x="683" y="162" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TkaoiMYruR-OZeZLr6xF-4" value="三角形类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="683" y="90" width="120" height="40" as="geometry" />
+          <mxGeometry x="683" y="82" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TkaoiMYruR-OZeZLr6xF-6" value="网格数据管理类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="683" y="320" width="120" height="40" as="geometry" />
+          <mxGeometry x="683" y="312" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TkaoiMYruR-OZeZLr6xF-7" value="数据管理基类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="363" y="320" width="120" height="40" as="geometry" />
+          <mxGeometry x="363" y="312" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TkaoiMYruR-OZeZLr6xF-8" value="KdTree类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="523" y="390" width="120" height="20" as="geometry" />
@@ -35,13 +35,13 @@
           <mxGeometry x="363" y="390" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="TkaoiMYruR-OZeZLr6xF-11" value="点云数据类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="523" y="250" width="120" height="40" as="geometry" />
+          <mxGeometry x="523" y="242" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TkaoiMYruR-OZeZLr6xF-12" value="网格数据类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="683" y="250" width="120" height="40" as="geometry" />
+          <mxGeometry x="683" y="242" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TkaoiMYruR-OZeZLr6xF-13" value="数据基类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="363" y="250" width="120" height="40" as="geometry" />
+          <mxGeometry x="363" y="242" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TkaoiMYruR-OZeZLr6xF-16" value="预处理算法基类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="363" y="489" width="120" height="50" as="geometry" />
@@ -62,7 +62,7 @@
           <mxGeometry x="363" y="569" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="TkaoiMYruR-OZeZLr6xF-27" value="向量类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="363" y="90" width="120" height="40" as="geometry" />
+          <mxGeometry x="363" y="82" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TkaoiMYruR-OZeZLr6xF-28" value="法线计算类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="523" y="569" width="120" height="20" as="geometry" />
@@ -93,56 +93,56 @@
         </mxCell>
         <mxCell id="TkaoiMYruR-OZeZLr6xF-39" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="TkaoiMYruR-OZeZLr6xF-2" target="TkaoiMYruR-OZeZLr6xF-1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="633" y="210" as="sourcePoint" />
-            <mxPoint x="793" y="210" as="targetPoint" />
+            <mxPoint x="633" y="202" as="sourcePoint" />
+            <mxPoint x="793" y="202" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TkaoiMYruR-OZeZLr6xF-40" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="TkaoiMYruR-OZeZLr6xF-5" target="TkaoiMYruR-OZeZLr6xF-4">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="593" y="180" as="sourcePoint" />
-            <mxPoint x="593" y="140" as="targetPoint" />
+            <mxPoint x="593" y="172" as="sourcePoint" />
+            <mxPoint x="593" y="132" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TkaoiMYruR-OZeZLr6xF-42" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="TkaoiMYruR-OZeZLr6xF-4" target="TkaoiMYruR-OZeZLr6xF-1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="753" y="180" as="sourcePoint" />
-            <mxPoint x="753" y="140" as="targetPoint" />
+            <mxPoint x="753" y="172" as="sourcePoint" />
+            <mxPoint x="753" y="132" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TkaoiMYruR-OZeZLr6xF-43" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="TkaoiMYruR-OZeZLr6xF-11">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="593" y="180" as="sourcePoint" />
-            <mxPoint x="583" y="210" as="targetPoint" />
+            <mxPoint x="593" y="172" as="sourcePoint" />
+            <mxPoint x="583" y="202" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TkaoiMYruR-OZeZLr6xF-44" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="TkaoiMYruR-OZeZLr6xF-12" target="TkaoiMYruR-OZeZLr6xF-5">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="593" y="260" as="sourcePoint" />
-            <mxPoint x="593" y="220" as="targetPoint" />
+            <mxPoint x="593" y="252" as="sourcePoint" />
+            <mxPoint x="593" y="212" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TkaoiMYruR-OZeZLr6xF-45" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TkaoiMYruR-OZeZLr6xF-11" target="TkaoiMYruR-OZeZLr6xF-13">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="633" y="310" as="sourcePoint" />
-            <mxPoint x="793" y="310" as="targetPoint" />
+            <mxPoint x="633" y="302" as="sourcePoint" />
+            <mxPoint x="793" y="302" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TkaoiMYruR-OZeZLr6xF-46" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="TkaoiMYruR-OZeZLr6xF-3">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="593" y="250" as="sourcePoint" />
-            <mxPoint x="583" y="290" as="targetPoint" />
+            <mxPoint x="593" y="242" as="sourcePoint" />
+            <mxPoint x="583" y="282" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TkaoiMYruR-OZeZLr6xF-47" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="TkaoiMYruR-OZeZLr6xF-6" target="TkaoiMYruR-OZeZLr6xF-12">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="743" y="310" as="sourcePoint" />
-            <mxPoint x="753" y="210" as="targetPoint" />
+            <mxPoint x="743" y="302" as="sourcePoint" />
+            <mxPoint x="753" y="202" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TkaoiMYruR-OZeZLr6xF-48" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TkaoiMYruR-OZeZLr6xF-3" target="TkaoiMYruR-OZeZLr6xF-7">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="533" y="270" as="sourcePoint" />
-            <mxPoint x="493" y="270" as="targetPoint" />
+            <mxPoint x="533" y="262" as="sourcePoint" />
+            <mxPoint x="493" y="262" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TkaoiMYruR-OZeZLr6xF-53" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="TkaoiMYruR-OZeZLr6xF-8">
@@ -224,10 +224,49 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TkaoiMYruR-OZeZLr6xF-74" value="数据类型" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
-          <mxGeometry x="310" y="50" width="520" height="330" as="geometry" />
+          <mxGeometry x="310" y="42" width="520" height="330" as="geometry" />
         </mxCell>
         <mxCell id="TkaoiMYruR-OZeZLr6xF-76" value="算法类型" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
           <mxGeometry x="170" y="450" width="510" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="TkaoiMYruR-OZeZLr6xF-77" value="外部库适配器基类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="990" y="479" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TkaoiMYruR-OZeZLr6xF-78" value="PCL适配器类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1151" y="483" width="139" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TkaoiMYruR-OZeZLr6xF-79" value="OpenMesh适配器类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1151" y="513" width="139" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TkaoiMYruR-OZeZLr6xF-80" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="TkaoiMYruR-OZeZLr6xF-78">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1161" y="433" as="sourcePoint" />
+            <mxPoint x="1111" y="493" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TkaoiMYruR-OZeZLr6xF-81" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1150" y="523" as="sourcePoint" />
+            <mxPoint x="1110" y="523" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TkaoiMYruR-OZeZLr6xF-82" value="CCCoreLib适配器类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="483" width="139" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TkaoiMYruR-OZeZLr6xF-83" value="VCGLib适配器类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="513" width="139" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TkaoiMYruR-OZeZLr6xF-84" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="948.5" y="523.2900000000001" as="sourcePoint" />
+            <mxPoint x="991.5" y="523.2900000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TkaoiMYruR-OZeZLr6xF-85" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="948.5" y="493.2900000000001" as="sourcePoint" />
+            <mxPoint x="991.5" y="493.2900000000001" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
